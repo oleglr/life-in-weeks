@@ -4,6 +4,7 @@ title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
 
+theme = "your-theme-name"
 
 [params]
 author = "Gina Trapani"
